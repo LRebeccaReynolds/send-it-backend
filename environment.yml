@@ -1,0 +1,7 @@
+name: send-it-backend
+dependencies:
+  - python=3.11
+  - fastapi
+  - uvicorn
+  - pydantic
+  - sqlalchemy
